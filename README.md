@@ -6,6 +6,6 @@
 **mail** | szszlovely@naver.com
 
 
-**homepage** | https://szszportfolio.imweb.me/
+*homepage* | https://szszportfolio.imweb.me/
 
 <img width="1280" height="1036" alt="63cce78b9382d" src="https://github.com/user-attachments/assets/8f0ffe13-19da-4ba8-9598-cbf32313045e" />
